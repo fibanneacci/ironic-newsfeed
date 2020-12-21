@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ironic-newsfeed/static/css/main.ff1f2880.chunk.css",
-    "main.js": "/ironic-newsfeed/static/js/main.cb09088f.chunk.js",
-    "main.js.map": "/ironic-newsfeed/static/js/main.cb09088f.chunk.js.map",
+    "main.js": "/ironic-newsfeed/static/js/main.d99ed3d1.chunk.js",
+    "main.js.map": "/ironic-newsfeed/static/js/main.d99ed3d1.chunk.js.map",
     "runtime-main.js": "/ironic-newsfeed/static/js/runtime-main.aec23dac.js",
     "runtime-main.js.map": "/ironic-newsfeed/static/js/runtime-main.aec23dac.js.map",
     "static/js/2.fd76b2a5.chunk.js": "/ironic-newsfeed/static/js/2.fd76b2a5.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.aec23dac.js",
     "static/js/2.fd76b2a5.chunk.js",
     "static/css/main.ff1f2880.chunk.css",
-    "static/js/main.cb09088f.chunk.js"
+    "static/js/main.d99ed3d1.chunk.js"
   ]
 }
